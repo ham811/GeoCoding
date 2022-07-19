@@ -3,7 +3,6 @@
 
 # Requirements
 
---find-links=https://girder.github.io/large_image_wheels GDAL
 * [geemap](geemap.org)
 * [geopandas](geopandas)
 * jupyter-server-proxy
